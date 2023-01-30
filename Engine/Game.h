@@ -46,5 +46,7 @@ private:
 
 
 	MemeField field;
+
+	bool mie = true;
 	/********************************/
 };
